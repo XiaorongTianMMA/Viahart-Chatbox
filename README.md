@@ -34,3 +34,5 @@ Sklearn: To apply machine learning algorithms for customer segmentation and prof
 **Conclusion**
 
 Implementing this chatbot technology will significantly reduce operational costs and enhance the customer experience. Future developments include expanding API integrations for comprehensive data management.
+
+**This project was created by Tony Xu, Yichen Yu, Yifan Lu, and myself.**
